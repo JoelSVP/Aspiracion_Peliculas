@@ -1,0 +1,16 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+
+/* SECTION */
+
+.section-padding {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
